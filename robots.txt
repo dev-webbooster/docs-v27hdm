@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-cew2ih.salamduit.sbs/sitemap.xml
